@@ -8,5 +8,9 @@ Pets Ride representaría un modelo de negocio basado en plataforma de servicios,
 
 
 ## Razones por las que Pets Ride se ajusta a este modelo:
+*1 Intermediación de servicios:
+*2 Facilitación de la experiencia de usuario:
+*3 Escalabilidad:
+*4 Educación y contenido: 
 
 
