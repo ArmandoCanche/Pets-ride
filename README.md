@@ -1,6 +1,5 @@
-<div text-align = 'center'>
+
 # Pets-ride
-</div>
 ## MODELO DE NEGOCIO
 Pets Ride representaría un modelo de negocio basado en plataforma de servicios, específicamente en el sector de cuidado de mascotas. Este modelo se caracteriza por conectar a los duseños de mascotas con proveedores de servicios relacionados, como: cuidadores, veterinarios, entrenadores, estéticos caninos; facilitando la interacción y transacciones a través de una aplicación movil.
 
