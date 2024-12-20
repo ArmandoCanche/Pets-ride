@@ -1,20 +1,39 @@
+# Pets Ride
+Proyecto en curso, comenzado por la asignatura de "Innovación Tecnológica". Aplicación móvil de ventas de servicios y productos para mascotas.
 
-# Pets-ride
-## MODELO DE NEGOCIO
-Pets Ride representaría un modelo de negocio basado en plataforma de servicios, específicamente en el sector de cuidado de mascotas. Este modelo se caracteriza por conectar a los duseños de mascotas con proveedores de servicios relacionados, como: cuidadores, veterinarios, entrenadores, estéticos caninos; facilitando la interacción y transacciones a través de una aplicación movil.
+![PetsRide](logo.png)
 
+ ## Equipo
 
-![petsride](/)
+* [Jorge Armando Canche Tintore.](https://github.com/ArmandoCanche)
+* [Luis Manuel Lagunez Rodríguez.](https://github.com/LuisLagunez)
+* [Luis Javier Quintana Olivera.](https://github.com/Luis-J-Quintana)
+* [Leticia del Carmen Tejero Gamboa.](https://github.com/LeticiaTejeroGamboa2401)
 
+## Descripción General
+Este repositorio contiene el progreso del proyecto **Pets Ride**. Comenzado como un proyecto integrador para la asignatura **Innovación Tecnológica** impartida en el séptimo semestre de la licenciatura en Ingeniería de Software de la Universidad Autónoma de Yucatán, vinculación con la Unidad Multidisciplinaria Tizimín. El proyecto pretende servir como una aplicación móvil de ventas de servicios y productos para mascotas.
 
-## Razones por las que Pets Ride se ajusta a este modelo:
-1. Intermediación de servicios:
-   La aplicación actúa como intermediario entre los dueños de las mascotas y los proveedores de            servicios, permitiendo a los usuarios acceder a una variedad de opciones en un solo lugar.
-2. Facilitación de la experiencia de usuario:
-   Este modelo permite a Pets Ride escalar fácilmente al tener una posibilidad de agregar más             proveedores de servicios y expandir la oferta sin necesidad de invertir en infraestructura física,      lo que es ideal para un negocio basado en tecnología.
-3. Escalabilidad:
-   Al ser un negocio basado en plataforma de servicios, se ofrece la posibilidad de utilizar un           servicio de terceros para aumentar el hardware necesario o disminuirlo según sea el caso permitiendo    adaptarnos a la demanda en su momento de Pets Ride.
-4. Educación y contenido:
-   Además de conectar a los usuarios con servicios, Pets Ride también se enfoca en educar los dueños de   mascotas, lo que añade valor a la plataforma y puede traer a más usuarios.
+## ¿Qué es Pets Ride?
+Pets Ride es una aplicación móvil diseñada para revolucionar el cuidado de las mascotas, conectando a sus dueños con una red confiable de servicios especializados. Desde transporte y cuidado veterinario hasta hospedaje, educación y adiestramiento, Pets Ride facilita el acceso a servicios personalizados que promueven el bienestar y la felicidad de tus compañeros peludos. Nuestra misión es ser el aliado de confianza que hace del cuidado de tus mascotas una experiencia más sencilla, segura y tecnológica.
+
+## Objetivo General
+Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascotas a través de una plataforma tecnológica que priorice la confianza, la seguridad y la satisfacción del cliente.
+
+## Características Principales de la Aplicación
+
+### Servicios Disponibles
+- Transporte especializado para mascotas.
+- Conexión con veterinarios certificados.
+- Hospedaje y cuidado temporal.
+- Adiestramiento personalizado.
+- Recursos educativos para dueños responsables.
+
+### Funciones Tecnológicas
+- Geolocalización en tiempo real para servicios de transporte.
+- Evaluaciones y reseñas de proveedores.
+- Notificaciones personalizadas sobre salud y bienestar.
+- Plataforma amigable para agendar y pagar servicios desde la app.
+
+## Índice
 
 
