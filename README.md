@@ -35,5 +35,10 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 - Plataforma amigable para agendar y pagar servicios desde la app.
 
 ## Índice
-
+### IT
+* [Misión, visión y valores.](Misión-Visión-Valores.pdf)
+* [Logo](logo.png)
+* [Modelo de negocio](Modelo-Negocio.pdf)
+* [FODA](FODA.png)
+* [Ventaja-Competitiva](Ventaja-Competitiva.pdf)
 
