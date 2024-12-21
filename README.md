@@ -46,9 +46,9 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 ## Colaboradores
 
 <div align="center">
-<a href="https://github.com/ArmandoCanche"><img src="https://avatars.githubusercontent.com/u/91635600?s=96&v=4" title="armando-canche" width="50" height="50" style="border-radius: 50%;"></a>
-<a href="https://github.com/LeticiaTejeroGamboa2401"><img src="https://avatars.githubusercontent.com/u/92128636?v=4" title="lae-tejero" width="50" height="50" style="border-radius: 50%;"></a>
-<a href="https://github.com/LuisLagunez"><img src="https://avatars.githubusercontent.com/u/72402156?v=4" title="luis-lagunez" width="50" height="50" style="border-radius: 50%;"></a>
+<a href="https://github.com/ArmandoCanche"><img src="https://avatars.githubusercontent.com/u/91635600?s=96&v=4" title="armando-canche" width="50" height="50" ></a>
+<a href="https://github.com/LeticiaTejeroGamboa2401"><img src="https://avatars.githubusercontent.com/u/92128636?v=4" title="lae-tejero" width="50" height="50" ></a>
+<a href="https://github.com/LuisLagunez"><img src="https://avatars.githubusercontent.com/u/72402156?v=4" title="luis-lagunez" width="50" height="50" ></a>
 </div>
 
 
@@ -56,7 +56,6 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 
 <div align="center">
 <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"></a>
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
 </div>
