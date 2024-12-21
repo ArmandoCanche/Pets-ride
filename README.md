@@ -58,5 +58,6 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"></a>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"></a>
 </div>
 
