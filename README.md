@@ -42,6 +42,7 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 
 <div align="center">
 <a href="https://github.com/ArmandoCanche"><img src="https://avatars.githubusercontent.com/u/91635600?s=96&v=4" title="armando-canche" width="50" height="50" ></a>
+<a href="https://github.com/BryanCetzal"><img src="https://avatars.githubusercontent.com/u/91039569?v=4" title="bryan-cetzal" width="50" height="50" ></a>
 <a href="https://github.com/LeticiaTejeroGamboa2401"><img src="https://avatars.githubusercontent.com/u/92128636?v=4" title="lae-tejero" width="50" height="50" ></a>
 <a href="https://github.com/LuisLagunez"><img src="https://avatars.githubusercontent.com/u/72402156?v=4" title="luis-lagunez" width="50" height="50" ></a>
 </div>
