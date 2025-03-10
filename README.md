@@ -36,6 +36,7 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 * [Modelo de negocio](Modelo-Negocio.pdf)
 * [FODA](FODA.png)
 * [Ventaja-Competitiva](Ventaja-Competitiva.pdf)
+* [ERS](ERS_PetsRide.pdf)
 
 
 ## Colaboradores
