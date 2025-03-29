@@ -1,5 +1,5 @@
 # 🐾 Pets Ride
-**Proyecto en curso**, iniciado en la asignatura de **"Innovación Tecnológica"**. Una aplicación móvil para ventas de servicios y productos para mascotas.
+**Proyecto en curso**, iniciado en la asignatura de **"Innovación Tecnológica"**, y teniendo continuación en la asignatura **"Administración de Proyectos 1"**. Una aplicación móvil para ventas de servicios y productos para mascotas.
 
 <div align="center">
 <img src="logo.png" alt="Pets Ride" width="300">
