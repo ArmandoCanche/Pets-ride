@@ -2,7 +2,7 @@
 **Proyecto en curso**, iniciado en la asignatura de **"Innovación Tecnológica"**, y teniendo continuación en la asignatura **"Administración de Proyectos 1"**. Una aplicación móvil para ventas de servicios y productos para mascotas.
 
 <div align="center">
-<img src="logo.png" alt="Pets Ride" width="300">
+<img src="Documentos/logo.png" alt="Pets Ride" width="300">
 </div>
 
 ## 🌟 Descripción General
@@ -30,18 +30,25 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 - Plataforma amigable para **agendar y pagar servicios** desde la app.
 
 ## Índice
-### 📂 IT
-* [Misión, visión y valores.](Misión-Visión-Valores.pdf)
-* [Logo](logo.png)
-* [Modelo de negocio](Modelo-Negocio.pdf)
-* [FODA](FODA.png)
-* [Ventaja-Competitiva](Ventaja-Competitiva.pdf)
-* [ERS](ERS_PetsRide.pdf)
-* [Charter](CharterPets'Ride.pdf)
-* [Caso de negocio](Business_Case.pdf)
-* [Documento de factibilidad](DocumentodeFactibilidad.pdf)
-* [Propuesta](Propuesta.pdf)
 
+### 📂 Documentos de planeación.
+* [Plan de dirección del proyecto]()
+* [Modelo de Negocio](Documentos/Modelo-Negocio.pdf)
+* [Ventaja-Competitiva](Documentos/Ventaja-Competitiva.pdf)
+* [Caso de negocio](Documentos/Business_Case.pdf)
+* [Documento de Factibilidad](Documentos/DocumentodeFactibilidad.pdf)
+* [Charter](Documentos/CharterPets'Ride.pdf)
+* [Propuesta](Documentos/Propuesta.pdf)
+* [ERS](Documentos/ERS_PetsRide.pdf)
+
+### 📂 Documentos de planes subsidiarios, líneas bases, costos y cronogramas.
+* [Cronograma del proyecto](Documentos/Cronograma.pdf)
+* [Plan de gestión de costes y línea base de costes](Documentos/Plan-Gestión-Costes-LineaBaseCostes.pdf)
+* [Plan de gestión de riesgos](Documentos/Plan-Gestión-Riesgos.pdf)
+* [Plan de gestión de configuración y de cambios](Documentos/Plan-Gestión-Configuracion-Y-Cambios.pdf)
+
+### 📂 Plantillas que se planean usar en la ejecucion, seguimiento, control y cierre.
+* [Plantilla 1]()
 
 ## Colaboradores
 
