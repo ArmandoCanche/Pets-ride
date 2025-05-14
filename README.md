@@ -34,7 +34,7 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 ### 📂 Documentos de planeación.
 * [Plan de dirección del proyecto]()
 * [Modelo de Negocio](Documentos/Modelo-Negocio.pdf)
-* [Ventaja-Competitiva](Documentos/Ventaja-Competitiva.pdf)
+* [Ventaja Competitiva](Documentos/Ventaja-Competitiva.pdf)
 * [Caso de negocio](Documentos/Business_Case.pdf)
 * [Documento de Factibilidad](Documentos/DocumentodeFactibilidad.pdf)
 * [Charter](Documentos/CharterPets'Ride.pdf)
