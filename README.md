@@ -32,7 +32,6 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 ## Índice
 
 ### 📂 Documentos de planeación.
-* [Plan de dirección del proyecto]()
 * [Modelo de Negocio](Documentos/Modelo-Negocio.pdf)
 * [Ventaja Competitiva](Documentos/Ventaja-Competitiva.pdf)
 * [Caso de Negocio](Documentos/Business_Case.pdf)
@@ -47,8 +46,11 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 * [Plan de gestión de riesgos](Documentos/Plan-Gestión-Riesgos.pdf)
 * [Plan de gestión de configuración y de cambios](Documentos/Plan-Gestión-Configuracion-Y-Cambios.pdf)
 
-### 📂 Plantillas que se planean usar en la ejecucion, seguimiento, control y cierre.
-* [Plantilla 1]()
+### 📂 Plantillas que se planean usar.
+* [Plantilla de Bitácora de Cambios](Documentos/Plantilla-Bitacora-Cambios.pdf)
+* [Plantilla de Acta de Reuniones](Documentos/Plantilla-Acta-Reunión.pdf)
+* [Plantilla de Aceptación de Finalización](Documentos/Documento-Aceptación-Finalización.pdf)
+* [Plantilla de Informe de Cierre](Documentos/Plantilla-Informe-Cierre.pdf)
 
 ## Colaboradores
 
