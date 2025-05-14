@@ -35,7 +35,7 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 * [Plan de dirección del proyecto]()
 * [Modelo de Negocio](Documentos/Modelo-Negocio.pdf)
 * [Ventaja Competitiva](Documentos/Ventaja-Competitiva.pdf)
-* [Caso de negocio](Documentos/Business_Case.pdf)
+* [Caso de Negocio](Documentos/Business_Case.pdf)
 * [Documento de Factibilidad](Documentos/DocumentodeFactibilidad.pdf)
 * [Charter](Documentos/CharterPets'Ride.pdf)
 * [Propuesta](Documentos/Propuesta.pdf)
