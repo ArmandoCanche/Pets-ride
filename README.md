@@ -52,6 +52,9 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 * [Plantilla de Aceptación de Finalización](Documentos/Documento-Aceptación-Finalización.pdf)
 * [Plantilla de Informe de Cierre](Documentos/Plantilla-Informe-Cierre.pdf)
 
+🔗 [Ver diseño en Figma](https://www.figma.com/design/PELtlEl7AhFgfCv5fKukyD/Chat-Pet?node-id=0-1&t=XqNm3S2cBTtcCt1c-1)
+🔗 [Video de funcionamiento parcial](https://youtu.be/ugWd8LkkoEU)
+
 ## Colaboradores
 
 <div align="center">
