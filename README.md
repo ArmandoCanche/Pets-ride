@@ -50,8 +50,11 @@ Facilitar y optimizar el acceso a servicios integrales para el cuidado de mascot
 * [Plan de despliegue](Documentos/PlanDespliegue.pdf)
 * [Plan de aceptación](Documentos/PlanAceptacion.pdf)
 
-### 📂 Plantillas que se planean usar.
-* [Plantilla de Informe de Cierre](Documentos/Plantilla-Informe-Cierre.pdf)
+### 📂 Informe de cierre y manuales
+* [Manual de usuario](Documentos/Manual-Usuario.pdf)
+* [Manual técnico](Documentos/Manual-Tecnico.pdf)
+* [Informe de Cierre](Documentos/Informe-Cierre-del-Proyecto.pdf)
+* [Repositorio del proyecto desarrollado](https://github.com/ArmandoCanche/Pets-Ride-App)
 
 ## Colaboradores
 
